@@ -1,0 +1,5 @@
+name: ${project.name}
+version: ${project.version}
+author: rmb938
+depend: [TagAPI]
+main: ${project.groupId}.${project.artifactId}
